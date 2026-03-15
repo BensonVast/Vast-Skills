@@ -1,5 +1,5 @@
 ---
-name: xhs-suite
+name: vast-xhs
 version: 0.1.0
 description: "小红书自动化全能技能：登录、检索、详情、互动、发布与账号管理"
 author: vast-skills

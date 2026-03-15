@@ -1,5 +1,5 @@
 {
-  "name": "xhs-suite",
+  "name": "vast-xhs",
   "version": "0.1.0",
   "type": "module",
   "engines": { "node": ">=20" }
